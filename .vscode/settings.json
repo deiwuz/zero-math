@@ -1,0 +1,11 @@
+{
+    "python-envs.pythonProjects": [],
+    "editor.suggestOnTriggerCharacters": false,
+    "editor.quickSuggestions": {
+        "comments": "off",
+        "strings": "off",
+        "other": "off"
+    },
+    "editor.parameterHints.enabled": false,
+    "editor.hover.enabled": false
+}
